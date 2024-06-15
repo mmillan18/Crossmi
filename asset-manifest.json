@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mmillan18/Crossmi.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mmillan18/Crossmi.git/static/js/main.98e1f20b.chunk.js",
+    "main.js.map": "/mmillan18/Crossmi.git/static/js/main.98e1f20b.chunk.js.map",
+    "runtime-main.js": "/mmillan18/Crossmi.git/static/js/runtime-main.30b56da4.js",
+    "runtime-main.js.map": "/mmillan18/Crossmi.git/static/js/runtime-main.30b56da4.js.map",
+    "static/js/2.aa12160e.chunk.js": "/mmillan18/Crossmi.git/static/js/2.aa12160e.chunk.js",
+    "static/js/2.aa12160e.chunk.js.map": "/mmillan18/Crossmi.git/static/js/2.aa12160e.chunk.js.map",
+    "static/js/3.22c3bdaf.chunk.js": "/mmillan18/Crossmi.git/static/js/3.22c3bdaf.chunk.js",
+    "static/js/3.22c3bdaf.chunk.js.map": "/mmillan18/Crossmi.git/static/js/3.22c3bdaf.chunk.js.map",
+    "index.html": "/mmillan18/Crossmi.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mmillan18/Crossmi.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.aa12160e.chunk.js.LICENSE.txt": "/mmillan18/Crossmi.git/static/js/2.aa12160e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mmillan18/Crossmi.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30b56da4.js",
+    "static/js/2.aa12160e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.98e1f20b.chunk.js"
+  ]
+}
