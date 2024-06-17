@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/Crossmi/static/css/main.a659ea30.chunk.css",
-    "main.js": "/Crossmi/static/js/main.a3e88756.chunk.js",
-    "main.js.map": "/Crossmi/static/js/main.a3e88756.chunk.js.map",
-    "runtime-main.js": "/Crossmi/static/js/runtime-main.363b99b2.js",
-    "runtime-main.js.map": "/Crossmi/static/js/runtime-main.363b99b2.js.map",
-    "static/js/2.b962e148.chunk.js": "/Crossmi/static/js/2.b962e148.chunk.js",
-    "static/js/2.b962e148.chunk.js.map": "/Crossmi/static/js/2.b962e148.chunk.js.map",
-    "static/js/3.181a84c9.chunk.js": "/Crossmi/static/js/3.181a84c9.chunk.js",
-    "static/js/3.181a84c9.chunk.js.map": "/Crossmi/static/js/3.181a84c9.chunk.js.map",
+    "main.css": "/Crossmi/static/css/main.d167077e.chunk.css",
+    "main.js": "/Crossmi/static/js/main.4355543a.chunk.js",
+    "main.js.map": "/Crossmi/static/js/main.4355543a.chunk.js.map",
+    "runtime-main.js": "/Crossmi/static/js/runtime-main.8df6ce45.js",
+    "runtime-main.js.map": "/Crossmi/static/js/runtime-main.8df6ce45.js.map",
+    "static/js/2.4ca55d14.chunk.js": "/Crossmi/static/js/2.4ca55d14.chunk.js",
+    "static/js/2.4ca55d14.chunk.js.map": "/Crossmi/static/js/2.4ca55d14.chunk.js.map",
+    "static/js/3.70348dc9.chunk.js": "/Crossmi/static/js/3.70348dc9.chunk.js",
+    "static/js/3.70348dc9.chunk.js.map": "/Crossmi/static/js/3.70348dc9.chunk.js.map",
     "index.html": "/Crossmi/index.html",
-    "static/css/main.a659ea30.chunk.css.map": "/Crossmi/static/css/main.a659ea30.chunk.css.map",
-    "static/js/2.b962e148.chunk.js.LICENSE.txt": "/Crossmi/static/js/2.b962e148.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Crossmi/static/media/logo.6ce24c58.svg",
+    "static/css/main.d167077e.chunk.css.map": "/Crossmi/static/css/main.d167077e.chunk.css.map",
+    "static/js/2.4ca55d14.chunk.js.LICENSE.txt": "/Crossmi/static/js/2.4ca55d14.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/Crossmi/static/media/cafe.c9e8dadf.jpg",
+    "static/media/logo.d7ddc121.png": "/Crossmi/static/media/logo.d7ddc121.png",
     "static/media/product1.c8e4e789.png": "/Crossmi/static/media/product1.c8e4e789.png",
     "static/media/product2.85a60f16.png": "/Crossmi/static/media/product2.85a60f16.png",
     "static/media/product3.829e18dd.png": "/Crossmi/static/media/product3.829e18dd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.363b99b2.js",
-    "static/js/2.b962e148.chunk.js",
-    "static/css/main.a659ea30.chunk.css",
-    "static/js/main.a3e88756.chunk.js"
+    "static/js/runtime-main.8df6ce45.js",
+    "static/js/2.4ca55d14.chunk.js",
+    "static/css/main.d167077e.chunk.css",
+    "static/js/main.4355543a.chunk.js"
   ]
 }
